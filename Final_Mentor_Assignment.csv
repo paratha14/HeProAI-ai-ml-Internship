@@ -1,0 +1,51 @@
+student_id,Cluster_Label,Recommended_Mentor_Type,Assigned_Mentor,Suggested_Intervention,Alert_Status
+S001,Career-Confused,Career,Mentor_29,Career Guidance & Skill Mapping,Normal Monitoring
+S002,At-Risk,Wellness,Mentor_41,Wellness + Academic Support,Immediate Intervention Required
+S003,High performance,Career,Mentor_30,Career Guidance & Skill Mapping,Normal Monitoring
+S004,High performance,Career,Mentor_31,Career Guidance & Skill Mapping,Normal Monitoring
+S005,Career-Confused,Career,Mentor_32,Career Guidance & Skill Mapping,Normal Monitoring
+S006,At-Risk,Wellness,Mentor_43,Wellness + Academic Support,Immediate Intervention Required
+S007,Career-Confused,Career,Mentor_42,Career Guidance & Skill Mapping,Normal Monitoring
+S008,At-Risk,Wellness,Mentor_44,Wellness + Academic Support,Immediate Intervention Required
+S009,High performance,Career,Mentor_45,Career Guidance & Skill Mapping,Normal Monitoring
+S010,At-Risk,Wellness,Mentor_5,Wellness + Academic Support,Immediate Intervention Required
+S011,At-Risk,Wellness,Mentor_13,Wellness + Academic Support,Immediate Intervention Required
+S012,Career-Confused,Career,Mentor_48,Career Guidance & Skill Mapping,Normal Monitoring
+S013,At-Risk,Wellness,Mentor_28,Wellness + Academic Support,Immediate Intervention Required
+S014,Career-Confused,Career,Mentor_6,Career Guidance & Skill Mapping,Normal Monitoring
+S015,At-Risk,Wellness,Mentor_33,Wellness + Academic Support,Immediate Intervention Required
+S016,Career-Confused,Career,Mentor_10,Career Guidance & Skill Mapping,Normal Monitoring
+S017,High performance,Career,Mentor_15,Career Guidance & Skill Mapping,Normal Monitoring
+S018,High performance,Career,Mentor_2,Career Guidance & Skill Mapping,Normal Monitoring
+S019,Career-Confused,Career,Mentor_29,Career Guidance & Skill Mapping,Normal Monitoring
+S020,At-Risk,Wellness,Mentor_41,Wellness + Academic Support,Immediate Intervention Required
+S021,At-Risk,Wellness,Mentor_43,Wellness + Academic Support,Immediate Intervention Required
+S022,At-Risk,Wellness,Mentor_44,Wellness + Academic Support,Immediate Intervention Required
+S023,Career-Confused,Career,Mentor_30,Career Guidance & Skill Mapping,Normal Monitoring
+S024,Career-Confused,Career,Mentor_31,Career Guidance & Skill Mapping,Normal Monitoring
+S025,At-Risk,Wellness,Mentor_5,Wellness + Academic Support,Immediate Intervention Required
+S026,Career-Confused,Career,Mentor_32,Career Guidance & Skill Mapping,Normal Monitoring
+S027,At-Risk,Wellness,Mentor_13,Wellness + Academic Support,Immediate Intervention Required
+S028,At-Risk,Wellness,Mentor_28,Wellness + Academic Support,Immediate Intervention Required
+S029,At-Risk,Wellness,Mentor_33,Wellness + Academic Support,Immediate Intervention Required
+S030,At-Risk,Wellness,Mentor_41,Wellness + Academic Support,Immediate Intervention Required
+S031,High performance,Career,Mentor_42,Career Guidance & Skill Mapping,Normal Monitoring
+S032,At-Risk,Wellness,Mentor_43,Wellness + Academic Support,Immediate Intervention Required
+S033,High performance,Career,Mentor_45,Career Guidance & Skill Mapping,Normal Monitoring
+S034,High performance,Career,Mentor_48,Career Guidance & Skill Mapping,Normal Monitoring
+S035,At-Risk,Wellness,Mentor_44,Wellness + Academic Support,Immediate Intervention Required
+S036,Career-Confused,Career,Mentor_6,Career Guidance & Skill Mapping,Normal Monitoring
+S037,At-Risk,Wellness,Mentor_13,Wellness + Academic Support,Immediate Intervention Required
+S038,Career-Confused,Career,Mentor_2,Career Guidance & Skill Mapping,Normal Monitoring
+S039,Career-Confused,Career,Mentor_29,Career Guidance & Skill Mapping,Normal Monitoring
+S040,Career-Confused,Career,Mentor_32,Career Guidance & Skill Mapping,Normal Monitoring
+S041,High performance,Career,Mentor_45,Career Guidance & Skill Mapping,Normal Monitoring
+S042,High performance,Career,Mentor_48,Career Guidance & Skill Mapping,Normal Monitoring
+S043,High performance,Career,Mentor_6,Career Guidance & Skill Mapping,Normal Monitoring
+S044,Career-Confused,Career,Mentor_29,Career Guidance & Skill Mapping,Normal Monitoring
+S045,High performance,Career,Mentor_32,Career Guidance & Skill Mapping,Normal Monitoring
+S046,Career-Confused,Career,Mentor_45,Career Guidance & Skill Mapping,Normal Monitoring
+S047,At-Risk,Wellness,Mentor_28,Wellness + Academic Support,Immediate Intervention Required
+S048,Career-Confused,Career,Mentor_48,Career Guidance & Skill Mapping,Normal Monitoring
+S049,High performance,Career,No Available Mentor,Career Guidance & Skill Mapping,Normal Monitoring
+S050,High performance,Career,No Available Mentor,Career Guidance & Skill Mapping,Normal Monitoring
